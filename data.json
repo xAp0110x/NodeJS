@@ -1,0 +1,62 @@
+[
+    {
+        "name": "ssd",
+        "price": "300",
+        "amount": "20",
+        "id": "1"
+    },
+    {
+        "name": "cpu",
+        "price": "90",
+        "amount": "5",
+        "id": "2"
+    },
+    {
+        "name": "gpu",
+        "price": "120",
+        "amount": "4",
+        "id": "3"
+    },
+    {
+        "name": "ram",
+        "price": "30",
+        "amount": "50",
+        "id": "4"
+    },
+    {
+        "name": "mainboard",
+        "price": "20",
+        "amount": "30",
+        "id": "5"
+    },
+    {
+        "name": "display",
+        "price": "400",
+        "amount": "25",
+        "id": "6"
+    },
+    {
+        "name": "mouse",
+        "price": "29.99",
+        "amount": "40",
+        "id": "7"
+    },
+    {
+        "name": "keyboard",
+        "price": "30.99",
+        "amount": "29",
+        "id": "8"
+    },
+    {
+        "name": "headphones",
+        "price": "43",
+        "amount": "37",
+        "id": "9"
+    },
+    {
+        "name": "fan",
+        "price": "12",
+        "amount": "200",
+        "id": "10"
+    }
+]
